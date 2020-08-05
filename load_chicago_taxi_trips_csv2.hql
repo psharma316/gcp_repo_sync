@@ -1,0 +1,1 @@
+LOAD DATA INPATH 'gs://dphivedb/*.csv' INTO TABLE staging.chicago_taxi_trips_csv2;
